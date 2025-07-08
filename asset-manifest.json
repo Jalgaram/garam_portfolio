@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/garam_portfolio/static/css/main.4e4c8b1d.css",
-    "main.js": "/garam_portfolio/static/js/main.ef934919.js",
+    "main.css": "/garam_portfolio/static/css/main.96943dc2.css",
+    "main.js": "/garam_portfolio/static/js/main.29ee29bb.js",
     "static/js/453.ad7768ec.chunk.js": "/garam_portfolio/static/js/453.ad7768ec.chunk.js",
     "index.html": "/garam_portfolio/index.html",
-    "main.4e4c8b1d.css.map": "/garam_portfolio/static/css/main.4e4c8b1d.css.map",
-    "main.ef934919.js.map": "/garam_portfolio/static/js/main.ef934919.js.map",
+    "main.96943dc2.css.map": "/garam_portfolio/static/css/main.96943dc2.css.map",
+    "main.29ee29bb.js.map": "/garam_portfolio/static/js/main.29ee29bb.js.map",
     "453.ad7768ec.chunk.js.map": "/garam_portfolio/static/js/453.ad7768ec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e4c8b1d.css",
-    "static/js/main.ef934919.js"
+    "static/css/main.96943dc2.css",
+    "static/js/main.29ee29bb.js"
   ]
 }
